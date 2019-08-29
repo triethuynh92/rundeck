@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <project>
-    <node name="server1"  tags="EC2" hostname="54.169.90.154" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.9.0-2-amd64" username="ubuntu" ssh-key-storage-path="keys/nodes/demo1.key"/>
+    <node name="Server Test"  tags="test add from github" hostname="54.169.90.154" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.9.0-2-amd64" username="ubuntu" ssh-key-storage-path="keys/nodes/server1.key"/>
     </project>
